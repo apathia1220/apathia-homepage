@@ -1,7 +1,6 @@
 export default {
   title: 'Apathia Component 中文文档',
   description: '基于vue3 + typescript + twind 的vue组件库',
-  base: '/apathia1220.github.io/',
   lang: 'zh-CN',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: 'icon.png' }]],
   themeConfig:{
@@ -17,10 +16,6 @@ export default {
       ],
       socialLinks:[
           { icon: 'github', link: 'https://github.com/apathia1220/apathia-vue' }
-      ],
-      // footer: {
-      //     message: 'MIT Licensed',
-      //     copyright: 'Copyright © 2022-present Apathia'
-      // }
+      ]
   }
 }
