@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: https://github.com/apathia1220/apathia-vue/apathia-doc/
+      link: https://apathia.club/apathia-doc/introduction
     - theme: alt
       text: GitHub
       link: https://github.com/apathia1220/apathia-vue
